@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Introducere."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Milton Friedman, laureat al premiului Nobel, a prezis era Bitcoin în urmă cu două decenii
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+„Singurul lucru care lipsește, dar care va fi dezvoltat în curând, este un numerar electronic de încredere. O metodă în care puteți transfera fonduri de la A la B, fără ca A să îl cunoască pe B sau B să îl cunoască pe A. Asemănător cum pot lua o bancnotă de 20 de dolari de la tine fără a exista  o înregistrare de unde a provenit.[...]. Genul acesta de lucruri se v-or dezvolta pe Internet. ” Economist american și laureat al Premiului Nobel în științe economice Milton Friedman, 1999.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
