@@ -2,7 +2,7 @@
 layout: default
 title: Analiză tehnică
 parent: Bitcoin
-nav_order: 2
+nav_order: 1
 ---
 
 
