@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 permalink: /docs/bitcoin
 ---
-# Bitcoin
+# Documentație
 {: .no_toc }
 
 ## Cuprins
