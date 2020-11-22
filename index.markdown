@@ -29,7 +29,7 @@ permalink: /
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
   {
   "interval": "1m",
-  "width": 385,
+  "width": 375,
   "isTransparent": false,
   "height": 450,
   "symbol": "BINANCE:LINKUSDT",
