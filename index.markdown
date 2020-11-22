@@ -19,8 +19,27 @@ permalink: /
 ---
 
 ## Getting started
-![Stock-to-Flow]({{ "/assets/images/newplog.png" | absolute_url }})
+![Stock-to-Flow]({{ "/assets/images/newplot.png" | absolute_url }})
 ### Dependencies
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/symbols/LINKUSDT/technicals/" rel="noopener" target="_blank"><span class="blue-text">Analiză tehnică LINKUSDT</span></a> Nakamoto</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "1m",
+  "width": 425,
+  "isTransparent": false,
+  "height": 450,
+  "symbol": "BINANCE:LINKUSDT",
+  "showIntervalTabs": true,
+  "locale": "in",
+  "colorTheme": "light"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
 
