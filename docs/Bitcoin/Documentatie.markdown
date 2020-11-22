@@ -34,7 +34,7 @@ Dedicată exclusiv aspectelor tehnice,`documentația` conține articole care pre
 
 | Articol       | Autor         | Data publicației |
 |:-------------|:------------------|:------|
-| [Bitcoin: A Peer-to-Peer Electronic Cash System]({{ site.baseurl }}{% link in \docs\Bitcoin\Nakamoto.markdown %})           | Satoshi Nakamoto | 31 Octombrie, 2008  |
+| Bitcoin         | Satoshi Nakamoto | 31 Octombrie, 2008  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
