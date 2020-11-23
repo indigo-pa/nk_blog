@@ -61,7 +61,7 @@ Dedicată exclusiv aspectelor tehnice, `documentația` conține articole care pr
 |Measuring Value|	Nick Szabo|	2002|
 |Advances in Distributed Security|	Nick Szabo|	2003|
 |Micropayments and Mental Transaction Costs|	Nick Szabo|	1999|
-|Bit Gold"|	Nick Szabo|	2005|
+|Bit Gold|	Nick Szabo|	2005|
 |Intrapolynomial Cryptography|	Nick Szabo|	1999|
 |Negative Reputation|	Nick Szabo|	1996|
 |Scarce Objects|	Nick Szabo|	2004|		

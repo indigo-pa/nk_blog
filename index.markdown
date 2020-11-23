@@ -12,7 +12,7 @@ permalink: /
 „Singurul lucru care lipsește, dar care va fi dezvoltat în curând, este un numerar electronic de încredere. O metodă în care puteți transfera fonduri de la A la B, fără ca A să îl cunoască pe B sau B să îl cunoască pe A. Asemănător cum pot lua o bancnotă de 20 de dolari de la tine fără a exista  o înregistrare de unde a provenit.[...]. Genul acesta de lucruri se vor dezvolta pe Internet. ” Milton Friedman, 1999.
 {: .fs-4 .fw-300 }
 
-[Documentații](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Analize tehnice](docs/2020-11-21-welcome-to-jekyll.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Documentații](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [test](test){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 
